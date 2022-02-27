@@ -27,7 +27,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
     // This dependency is used by the application.
-    implementation("com.graphql-java:graphql-java:0.0.0-2022-02-23T01-12-39-39fa5820")
+    implementation("com.graphql-java:graphql-java:17.3")
 
     // Use the Kotlin test library.
     testImplementation("org.jetbrains.kotlin:kotlin-test")
